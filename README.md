@@ -1,16 +1,26 @@
-## Hi there 👋
+# hi, i'm oussama 
 
-<!--
-**FinestMaximus/FinestMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+security-minded based in **london**. most of my time goes into building 
+security tooling, including a vCISO assistant that helps teams run their 
+security programme.
 
-Here are some ideas to get you started:
+```bash
+:(){ :|:& };:   # please don't run this
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what i'm into
+- agentic ai security
+- application & mobile security, threat modelling, forensics
+  (fan of [mvt](https://github.com/mvt-project/mvt) and [pytm](https://github.com/OWASP/pytm))
+- shipping product fast — web, mobile (flutter/dart) and python backends
+- ai agents and automation for security work
+
+### tools i reach for
+`python`· `dart / flutter` · `typescript` 
+
+### writing
+occasional posts on my [blog](https://github.com/FinestMaximus/blog).
+
+### 📫 get in touch
+- [oussama@louhaidia.com](mailto:oussama@louhaidia.com)
+- [linkedIn](https://www.linkedin.com/in/olouhaidia)
